@@ -1,0 +1,14 @@
+[
+  {
+    "package": "BBmisc",
+    "oncran": true
+  },
+  {
+    "package": "rscimark",
+    "oncran": true
+  },
+  {
+    "package": "tspmeta",
+    "oncran": true
+  }
+]

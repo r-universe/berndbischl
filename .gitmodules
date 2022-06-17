@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "BBmisc"]
+	path = BBmisc
+	url = https://github.com/berndbischl/bbmisc
+	shallow = true
+	registered = true
+[submodule "rscimark"]
+	path = rscimark
+	url = https://github.com/berndbischl/rscimark
+	shallow = true
+	registered = true
+[submodule "tspmeta"]
+	path = tspmeta
+	url = https://github.com/berndbischl/tspmeta
+	shallow = true
+	registered = true
