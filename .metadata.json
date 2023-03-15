@@ -4,11 +4,11 @@
     "oncran": true
   },
   {
-    "package": "rscimark",
+    "package": "tspmeta",
     "oncran": true
   },
   {
-    "package": "tspmeta",
+    "package": "rscimark",
     "oncran": true
   }
 ]
