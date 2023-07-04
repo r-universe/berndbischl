@@ -5,9 +5,6 @@
 [submodule "BBmisc"]
 	path = BBmisc
 	url = https://github.com/berndbischl/bbmisc
-[submodule "rscimark"]
-	path = rscimark
-	url = https://github.com/berndbischl/rscimark
 [submodule "tspmeta"]
 	path = tspmeta
 	url = https://github.com/berndbischl/tspmeta
